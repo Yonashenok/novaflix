@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="src/assets/img/nasa-2W.png" alt="logo" width="140"  height="auto" />
+  <img src="src/assets/img/bigbang.png" alt="logo" width="140"  height="auto" />
 
   <h2><b>NovaFlix</b></h2>
 
@@ -58,7 +58,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Space Travelers' Hub] <a name="about-project"></a>
+# 📖 [NovaFlix] <a name="about-project"></a>
 
 **[NovaFlix]** is a website
 
@@ -67,13 +67,14 @@ After you're finished please remove all the comments and instructions!
 ### Tech Stack <a name="tech-stack"></a>
 
 - React.jsx
-- CSS Module
+- Redux
+- Tailwind
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[join and Leave mission]**
-- **[reserve and cancel reservation]**
+- **[search movie]**
+- **[add favorite show]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
