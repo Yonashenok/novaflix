@@ -28,8 +28,8 @@ function App() {
     <>
       <Routes>
         <Route path="/" element={<Layout />}>
-          <Route path="/" element={<Movies />} />
-          <Route path="/tvshows" element={<TvShow />} />
+          <Route path="/" element={<TvShow />} />
+          <Route path="/movies-search" element={<Movies />} />
           <Route path="/favorites" element={<Favorite />} />
           <Route path="*" element={<div>page not found </div>} />
         </Route>
