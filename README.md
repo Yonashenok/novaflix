@@ -60,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [NovaFlix] <a name="about-project"></a>
 
-**[NovaFlix]** is a website for your favorite movies and tv shows
+**[NovaFlix]** is a website for your favorite movies and tv shows, build by using React, Redux and Vite, Tailwind.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -178,7 +178,6 @@ You can deploy this project using:
 
 >
 
-- **[add test for project]**
 - **[add animation]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
